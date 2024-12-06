@@ -1,0 +1,5 @@
+{
+    "$schema": "./drivers.schema.json",
+    "series":"Formula1",
+    "season": 2018
+}

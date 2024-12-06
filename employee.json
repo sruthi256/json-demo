@@ -1,0 +1,90 @@
+{
+    "employee" : [
+        {
+            "empid": 101,
+            "name": "Sruthi",
+            "desig": "Developer",
+            "married":false,
+            "salary": 500000
+        },
+        {
+          "empid": 102,
+          "name": "Jane Smith",
+          "desig": "Project Manager",
+          "married": false,
+          "salary": 95000
+        },
+        {
+          "empid": 103,
+          "name": "Robert Brown",
+          "desig": "QA Analyst",
+          "married": true,
+          "salary": 60000
+        },
+        {
+          "empid": 104,
+          "name": "Emily Johnson",
+          "desig": "UI/UX Designer",
+          "married": false,
+          "salary": 70000
+        },
+        {
+          "empid": 105,
+          "name": "Michael Davis",
+          "desig": "DevOps Engineer",
+          "married": true,
+          "salary": 80000
+        },
+        {
+          "empid": 106,
+          "name": "Sarah Wilson",
+          "desig": "Business Analyst",
+          "married": false,
+          "salary": 68000
+        },
+        {
+          "empid": 107,
+          "name": "David Martinez",
+          "desig": "Database Administrator",
+          "married": true,
+          "salary": 72000
+        },
+        {
+          "empid": 108,
+          "name": "Laura Thomas",
+          "desig": "Network Engineer",
+          "married": false,
+          "salary": 75000
+        },
+        {
+          "empid": 109,
+          "name": "Chris Taylor",
+          "desig": "Full Stack Developer",
+          "married": true,
+          "salary": 85000
+        },
+        {
+          "empid": 110,
+          "name": "Sophia Anderson",
+          "desig": "Cloud Architect",
+          "married": false,
+          "salary": 98000
+        },
+        {
+            "empid": 111,
+            "name": "Sreeja",
+            "desig": "Technical",
+            "married":false,
+            "salary": 450000
+        },
+        {
+            "empid": 112,
+            "name": "Ajay",
+            "desig": "IT",
+            "married":true,
+            "salary": 400000
+        }
+        
+
+    ]
+}
